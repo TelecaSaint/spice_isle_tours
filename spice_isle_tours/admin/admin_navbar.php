@@ -13,7 +13,7 @@
                 <li class="nav-item"><a class="nav-link" href="dashboard.php">🏠 Dashboard</a></li>
                 <li class="nav-item"><a class="nav-link" href="manage_tours.php">🗺️ Tours</a></li>
                 <li class="nav-item"><a class="nav-link" href="manage_posts.php">📰 Blog</a></li>
-                <li class="nav-item"><a class="nav-link" href="admin_messages.php">📬 Messages</a></li>
+                <li class="nav-item"><a class="nav-link" href="admin_message.php">📬 Messages</a></li>
                 <li class="nav-item"><a class="nav-link" href="admin.php">👥 Users</a></li>
                 <li class="nav-item"><a class="nav-link" href="manage_bookings.php">📋 Bookings</a></li>
                 <li class="nav-item"><a class="nav-link" href="logout.php">🚪 Logout</a></li>
