@@ -60,3 +60,4 @@ $base_url = '/spice_isle_tours/';
 
 <!-- Bootstrap JS Bundle -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+// header.php ends here//
